@@ -1,0 +1,1 @@
+while true; do curl localhost:3000 ; date; sleep 1; done
